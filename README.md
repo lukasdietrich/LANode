@@ -30,12 +30,13 @@ To achieve a server-only version just run LANode through the commandline!
 **A file can't be sent**
 > Java uses a defined size of RAM. If your file is larger, than the allocated RAM, an error is thrown.
 > < 50MB shouldn't be a problem, anything above would force you to start LANode with more RAM manually.
-
-
+  
+  
+  
 ---
-
-
-
+  
+  
+  
 ##Screenshots
 
 ![Startscreen](README01.png)
